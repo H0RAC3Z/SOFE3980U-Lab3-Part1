@@ -15,7 +15,6 @@ spec:
       containers:
         - image: us-central1-docker.pkg.dev/project-e3d98e07-b588-4684-81a/sofe3980u/binarycalculator
           name: bincalc
-          env:
           ports:
             - containerPort: 8080
               name: bincalc
