@@ -51,3 +51,11 @@ Wait for external IP then run at external IP:
 ```
 http://<external-ip>:8080
 ```
+
+Delete deployment and service when done:
+```
+kubectl delete -f deploy.yaml
+```
+```
+kubectl delete -f service.yaml
+```
