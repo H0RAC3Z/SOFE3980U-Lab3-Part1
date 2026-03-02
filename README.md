@@ -15,7 +15,8 @@ mvn package
 ```
 
 Build image to repo: 
-```docker build -t us-central1-docker.pkg.dev/project-e3d98e07-b588-4684-81a/sofe3980u/binarycalculator .
+```
+docker build -t us-central1-docker.pkg.dev/project-e3d98e07-b588-4684-81a/sofe3980u/binarycalculator .
 ```
 
 Push image:
