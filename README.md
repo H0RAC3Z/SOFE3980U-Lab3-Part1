@@ -1,6 +1,6 @@
 # Instructions to Deploy and Create App
 Clone the repository:
-``git clone https://github.com/H0RAC3Z/SOFE3980U-Lab3-Part1``
+```git clone https://github.com/H0RAC3Z/SOFE3980U-Lab3-Part1```
 
 Get to the maven prj:
 `cd SOFE3980U-Lab3-Part1/BinaryCalculatorWebapp`
